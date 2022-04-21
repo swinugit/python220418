@@ -4,7 +4,7 @@ import sqlite3
 
 #연결객체를 만들기
 #파일에 데이터베이스를 저장
-con = sqlite3.connect("/Users/seo/Desktop/work/test.db")
+con = sqlite3.connect("/Users/seo/Desktop/work/commit.db")
 #구문을 수행할 커서 객체
 cur = con.cursor()
 #테이블 구조(테이블 스키마):SQL구문읜 대소문자 구분안함
