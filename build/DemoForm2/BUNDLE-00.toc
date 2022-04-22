@@ -1,0 +1,1 @@
+([('DemoForm2', '/Users/seo/Desktop/work/dist/DemoForm2', 'EXECUTABLE')],)
